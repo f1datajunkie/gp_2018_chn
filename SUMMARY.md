@@ -13,3 +13,14 @@
 	* [FP1](practice/practice_report_p1.md)
 	* [FP2](practice/practice_report_p2.md)
 	* [FP3](practice/practice_report_p3.md)
+
+*  Qualifying
+
+	* [Session Result](quali/quali_session_result.md)
+
+	* [Progression](quali/quali_progression.md)
+
+	* [Session Utilisation](quali/quali_utilisation.md)
+
+	* [Cutoff Time Evolution](quali/quali_cutoff_evolution.md)
+
