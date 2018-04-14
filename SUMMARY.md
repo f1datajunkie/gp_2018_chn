@@ -1,12 +1,12 @@
-* [Story So Far](leadup/README.md)
+* Story So Far
 
-	* [Event Trivia](leadup/story_so_far_trivia.md)
+	* [Event Trivia](preview/story_so_far_trivia.md)
 
-	* [Championship Standings](leadup/story_so_far_standings.md)
+	* [Championship Standings](preview/story_so_far_standings.md)
 
-	* [Drivers' & Constructors'  Historical Laptimes and Competitive Supertimes](leadup/story_so_far_laptimes.md)
+	* [Drivers' & Constructors'  Historical Laptimes and Competitive Supertimes](preview/story_so_far_laptimes.md)
 
-	* [Circuit Performance](leadup/story_so_far_circuit_performance.md)
+	* [Circuit Performance](preview/story_so_far_circuit_performance.md)
 
 * Practice
 

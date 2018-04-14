@@ -28,17 +28,17 @@ Individual winners at this circuit:
 | :----- | ---: |
 | HAM    |    5 |
 | ALO    |    2 |
-| VET    |    1 |
 | RAI    |    1 |
+| VET    |    1 |
 
 Podiums at this circuit:
 
 | Driver | Podiums |
 | :----- | ------: |
 | HAM    |       8 |
+| RAI    |       5 |
 | ALO    |       5 |
 | VET    |       5 |
-| RAI    |       5 |
 | VER    |       1 |
 
 ![](images/f1_2018_chn-team_circuit_performance-1.png)<!-- -->

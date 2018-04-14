@@ -1,5 +1,3 @@
-### Races to Date
-
 ### Upcoming Race Trivia…
 
 Coming in to the race:
