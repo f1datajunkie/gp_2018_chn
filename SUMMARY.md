@@ -24,3 +24,5 @@
 
 	* [Cutoff Time Evolution](quali/quali_cutoff_evolution.md)
 
+	* [Team Qualifying Faceoff](quali/quali_faceoff.md)
+
